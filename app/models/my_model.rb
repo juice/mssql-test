@@ -1,0 +1,3 @@
+class MyModel < MssqlAdapter
+
+end
